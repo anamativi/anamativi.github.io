@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "XIII FGSL"
+date:   2016-11-20 00:00:00 -0300
+categories: fedora foss
+---
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" height="360" src="https://4.bp.blogspot.com/-DQOdyQ81_DY/WHpBzEQj9sI/AAAAAAABZV0/7BpvBuvO7fEHueKpShJH6eBjbt6BpyXsACKgB/s640/20161119_164545.jpg" width="640" /></div>
+<br />
+<span style="font-size: small;"><span style="font-size: large;">O</span> </span><span style="font-size: small;">XIII FGSL aconteceu em Goiânia nos dia</span><span style="font-size: large;"><span style="font-size: small;">s 18 e 19 de Novembro na Universidade Federal de Goiás. Neste evento tive a oportunidade de conhecer e trabalhar de perto com dois outros contribuidores do Projeto, o Athos e o Fred, o que foi uma das melhores partes do evento.</span></span><br />
+<i>The XIII FGSL happened on November 18th and 19th at the Federal University of&nbsp; Goiás. In this event I had the oportunity to meet and work closely with two other contributors on the Project, Athos and Fred, which was one of the best things in the event.</i><br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" height="480" src="https://1.bp.blogspot.com/-F8_STsrng2M/WHpCmzszOJI/AAAAAAABZV4/YGolH038U0Y-5F6pLSUgGIp3tTCXLC1_QCLcB/s640/l10n.jpg" width="640" /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<br />
+<span style="font-size: small;">As atividades no primeiro dia começaram somente no final da tarde e o número de participantes presentes neste dia foi bastante baixo.<i> </i>No sábado haviam mais participantes. Tínhamos 3 atividades: palestras sobre o L10N e empacotamento durante a manhã e uma Release Party do Fedora 25 durante a tarde.</span><br />
+<span style="font-size: small;"><i>The activities on the first day started only late in the afternoon and the number of attendants in this day was pretty low. On Saturday there were more people attending. We had 3 activities scheduled: 2 talks about L10N and packaging and a Release Party for Fedora 25 on the afternoon.</i> </span><br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" height="360" src="https://2.bp.blogspot.com/-dMFEM4B_WMA/WHpC64V98eI/AAAAAAABZWE/nJevBcGSeMEtFPaKt-IzE6FIBVaqNiJIQCKgB/s640/20161119_113628.jpg" width="640" /></div>
+<div style="text-align: center;">
+<br /></div>
+<br />
+Tivemos um número bom de participantes em nossas palestras, considerando o tamanho do evento e a quantidade de palestras simultâneas (haviam 10 salas com palestrantes ao mesmo tempo, o que eu considero absurdo para o porte do evento). Para a nossa Release Party tivemos que ir atrás da organização do evento várias vezes para conseguir projetor e mesa para nossa sala. A parte boa é que quem participou se interessou bastante, e após a apresentação do Fedora 25 ficamos aprendendo mais sobre empacotamento com o Athos e também realizamos revisão de pacotes em conjunto.<br />
+<i>We had a good number of participants, considering the event size and the amount of simultaneous talks (there were 10 rooms with talks at the same time, which I consider an absurd for the size of the event). For our Release Party we had to talk to the organizers many times to get a table and projector for our room. The good part was that the people who participated showed a lot of interest and after the Fedora 25 presentation we started learning more about packaging with Athos and reviewed packages together. </i></div>
+
